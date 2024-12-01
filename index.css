@@ -1,0 +1,39 @@
+body{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;  
+    padding: 20px;
+    margin: 0 auto;
+    align-items: center;
+    background-color: pink;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+#home{
+    color: rgb(24, 151, 24);
+    text-decoration: underline;
+}
+#profile:hover{
+    color: red;
+}
+
+
+
+.top-bar img{
+    float: right;
+    width: 200px;
+    
+}
+
+.links{
+    width: 130px;
+    padding: 20px;
+    text-align: left;
+
+    background-color: pink;
+    border-radius: 50px;
+    border: 2px solid;
+    
+}

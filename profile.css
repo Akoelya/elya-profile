@@ -1,0 +1,50 @@
+body{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;  
+    padding: 20px;
+    margin: 0 auto;
+    align-items: center;
+    background-color: pink;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#profile{
+    color: rgb(24, 151, 24);
+    text-decoration: underline;
+}
+#home:hover{
+    color: red;
+}
+.links{
+    width: 130px;
+    padding: 20px;
+    text-align: left;
+    background-color: pink;
+    border-radius: 50px;
+    border: 2px solid;
+    
+}
+.container{
+    gap: 500px;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    max-width: 900px;
+    margin-top: 25px;
+    padding: 20px;
+    border: 5px solid;  
+    background-color: rgb(99, 70, 207,0.3);
+}
+
+.socmeds{
+    height: 25px; 
+}
+.socmeds:hover{
+    height: 35px;
+}
+#pfp{
+    height: 200px;
+}
